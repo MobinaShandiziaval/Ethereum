@@ -1,0 +1,16 @@
+a[href="#"] {
+  text-decoration: none;
+}
+.container {
+  display: flex;
+}
+.op {
+  background-color: aqua;
+}
+.navbar {
+  flex-direction: column;
+}
+.intoru img {
+  width: 507px;
+  right: 338px;
+}
