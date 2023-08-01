@@ -1,16 +1,32 @@
+* {
+  font-family: "Montserrat", sans-serif;
+}
 a[href="#"] {
   text-decoration: none;
 }
-.container {
-  display: flex;
+.continer {
+  width: 100%;
 }
-.op {
-  background-color: aqua;
+.continer img {
+  width: 100%;
 }
-.navbar {
-  flex-direction: column;
+.section1 img {
+  width: 500px;
+  right: 330px;
 }
-.intoru img {
-  width: 507px;
-  right: 338px;
+.section3 img {
+  width: 530px;
+  right: 440px;
+}
+.section4 img {
+  width: 530px;
+  right: 480px;
+}
+.section5 img {
+  width: 530px;
+  right: 440px;
+}
+.section6 img {
+  width: 530px;
+  right: 440px;
 }
