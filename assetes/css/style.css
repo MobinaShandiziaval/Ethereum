@@ -67,7 +67,8 @@ a {
   justify-content: center;
   margin: 80px 0;
 }
-.section2 {
+.section2,
+.section9 {
   display: flex;
   flex-wrap: wrap;
   width: 100%;
